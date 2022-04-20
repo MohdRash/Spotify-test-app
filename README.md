@@ -24,7 +24,8 @@ Pages Includes:
 ![Screenshot 2022-04-20 at 02-38-44 React App](https://user-images.githubusercontent.com/87312799/164199826-79c0f695-8500-4a04-9104-a9b825599f0c.png)
 
 
-How to Deploy the Smart Contract
+How to Deploy the Smart Contract:
+-------------------------------------
 
 There isn’t a lot to it, so I’m going to try to be quick and thorough with this using screenshots. The first step is compiling your smart contract. You can do this in the second menu from the left menu bar.
 
