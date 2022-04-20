@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from "react-router-dom";
 import { MoralisProvider } from "react-moralis";
 
+//Here you have to enter your appId and serverUrl in the "xxxx" from remix editor
 
 ReactDOM.render(
   <React.StrictMode>
